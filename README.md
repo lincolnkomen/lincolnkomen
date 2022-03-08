@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lincolnkomen
-- 👀 I’m interested in AR & VR
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on any project
+- 👋 Hi, I’m Lincoln Komen
+- 👀 I’m interested in AR, VR & AI. Spotlight on Deep learning & Machine Learning :/
+- 🌱 I’m currently learning software engineering at Holberton. Yes,Holberton.
+- 💞️ I’m good at HTML,CSS & little JS. For frontend collaboration. Feel free to inbox me
 - 📫 You can reach me by Whatsapp +254720300096
 
 <!---
