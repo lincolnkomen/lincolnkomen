@@ -1,6 +1,6 @@
-### Hi there, I'm [Lincoln](https://www.linkedin.com/in/lincoln-komen-130833179/) ðŸ‘‹
+### Hi there, I'm [Lincoln](https://www.linkedin.com/in/lincoln-komen-130833179/)
 
-I am a Tech enthusiast & i like solving problems !
+I am a Tech enthusiast & I like solving problems. Am also a Student at [Holberton]
 
 ### Skills and Expertise
 **Programming Languages:** C/C++, SQL, JavaScript(jQuery & Vue), HTML, CSS(Tailwind)
