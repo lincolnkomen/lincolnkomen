@@ -1,5 +1,9 @@
+### Hi there, I'm [Lincoln](https://www.linkedin.com/in/lincoln-komen-130833179/) ðŸ‘‹
 
-<!---
-lincolnkomen/lincolnkomen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Tech enthusiast & i like solving problems !
+
+### Skills and Expertise
+**Programming Languages:** C/C++, SQL, JavaScript(jQuery & Vue), HTML, CSS(Tailwind)
+**Cloud:** AWS (EC2, S3),
+
+**Frameworks & Other:** Git, Anaconda, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress
